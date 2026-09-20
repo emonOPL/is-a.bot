@@ -4,6 +4,6 @@
     "email": "abesanets@gmail.com"
   },
   "records": {
-    "CNAME": "55dfa4a940005253.vercel-dns-017.com"
+    "TXT": "vc-domain-verify=me.is-a.bot,af36bb2eefbb6720870c"
   }
 }
